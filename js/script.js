@@ -307,7 +307,7 @@ burgerLists.addEventListener('click', (e) => {
     }
 });
 
-let comingdate = new Date('aug 31, 2021 19:00:00')
+let comingdate = new Date('may 1, 2022 19:00:00')
 
 let d = document.getElementById('day')
 let h = document.getElementById('hour')
